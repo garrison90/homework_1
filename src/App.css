@@ -1,0 +1,12 @@
+.wrapper {
+  background-color: blueviolet;
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.content {
+  color: white;
+  text-align: center;
+}
